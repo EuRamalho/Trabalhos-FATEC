@@ -1,18 +1,27 @@
+body{
+    background-color: rgb(86, 198, 206);
+}
+
 .nome{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22px;
+    text-align: center;
 }
 .contato{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
+    text-align: left;
 }
 .ensino{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 19px;
+    font-style: italic;
+    text-align: center;
 }
 .curso{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
+    text-align: left;
 }
 
 p{
